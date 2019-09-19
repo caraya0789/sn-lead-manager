@@ -1,0 +1,10 @@
+.stats-chart {
+	height: 300px;
+	margin-top: 20px;
+	background: white;
+}
+
+.snlm-stats table th,
+.snlm-stats table td.stat {
+	text-align: center;
+}
